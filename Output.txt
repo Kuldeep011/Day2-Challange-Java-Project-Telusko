@@ -1,0 +1,119 @@
+1.Add Product
+2.Get All Product
+3.Search Product by Name
+4.Search Product by Place
+5.Search Product by Warranty
+6.Exit
+Enter choice: 1
+
+Enter Product Name: Logitech Mouse
+Enter Product Type: Mouse
+Enter Place: Black Table
+Enter Product Warranty: 2022
+Product Stored Successfully...
+
+1.Add Product
+2.Get All Product
+3.Search Product by Name      
+4.Search Product by Place     
+5.Search Product by Warranty  
+6.Exit
+Enter choice: 1
+
+Enter Product Name: Dell Laptop
+Enter Product Type: Laptop
+Enter Place: Room 2
+Enter Product Warranty: 2025
+Product Stored Successfully...
+
+1.Add Product
+2.Get All Product
+3.Search Product by Name      
+4.Search Product by Place     
+5.Search Product by Warranty  
+6.Exit
+Enter choice: 1
+
+Enter Product Name: Boat Watch
+Enter Product Type: Watch
+Enter Place: School Bag
+Enter Product Warranty: 2022
+Product Stored Successfully...
+
+1.Add Product
+2.Get All Product
+3.Search Product by Name
+4.Search Product by Place
+5.Search Product by Warranty
+6.Exit
+Enter choice: 1
+
+Enter Product Name: Nivya Facewash
+Enter Product Type: Facewash
+Enter Place: Room 2
+Enter Product Warranty: 2021
+Product Stored Successfully...
+
+1.Add Product
+2.Get All Product
+3.Search Product by Name
+4.Search Product by Place
+5.Search Product by Warranty
+6.Exit
+Enter choice: 2
+
+======================Product Details==========================
+
+Product{name='Logitech Mouse', type='Mouse', place='Black Table', warranty=2022}
+Product{name='Dell Laptop', type='Laptop', place='Room 2', warranty=2025}
+Product{name='Boat Watch', type='Watch', place='School Bag', warranty=2022}
+Product{name='Nivya Facewash', type='Facewash', place='Room 2', warranty=2021}
+
+1.Add Product
+2.Get All Product
+3.Search Product by Name
+4.Search Product by Place
+5.Search Product by Warranty
+6.Exit
+Enter choice: 3
+
+Enter Product Name: Logitech Mouse
+======================Product Details==========================
+
+Product{name='Logitech Mouse', type='Mouse', place='Black Table', warranty=2022}
+
+1.Add Product
+2.Get All Product
+3.Search Product by Name
+4.Search Product by Place
+5.Search Product by Warranty
+6.Exit
+Enter choice: 4
+
+Enter Place: Room 2
+======================Product Details==========================
+
+Product{name='Dell Laptop', type='Laptop', place='Room 2', warranty=2025}
+Product{name='Nivya Facewash', type='Facewash', place='Room 2', warranty=2021}
+
+1.Add Product
+2.Get All Product
+3.Search Product by Name
+4.Search Product by Place
+5.Search Product by Warranty
+6.Exit
+Enter choice: 5
+
+Enter Product Warranty: 2022
+======================Product Details==========================
+
+Product{name='Logitech Mouse', type='Mouse', place='Black Table', warranty=2022}
+Product{name='Boat Watch', type='Watch', place='School Bag', warranty=2022}
+
+1.Add Product
+2.Get All Product
+3.Search Product by Name
+4.Search Product by Place
+5.Search Product by Warranty
+6.Exit
+Enter choice: 6
